@@ -1,4 +1,4 @@
 # documentation
 MOSIP Documentation Repo
 
-[Index](index)
+[Index](index.md)
