@@ -14,8 +14,8 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: '12.x'
-          run: |
-            yarn run build
+      - run: npm install -g yarn
+      - run: yarn run build
   gh-release:
     runs-on: ubuntu-latest
     steps:
