@@ -16,7 +16,6 @@ jobs:
         with:
           node-version: '12.x'
           run: |
-            npm ci
             npm run build
   gh-release:
     if: github.event_name != 'pull_request'
@@ -46,5 +45,4 @@ jobs:
         run: |
           git config --global user.email "actions@gihub.com"
           git config --global user.name "gh-actions"
-          npm ci
           npx docusaurus deploy
