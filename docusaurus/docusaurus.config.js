@@ -77,6 +77,10 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
+     algolia: {
+      apiKey: '8732b3b4c0c3128f424b8fc2d73cf7d9',
+      indexName: 'mosip',
+    },
   },
   presets: [
     [
