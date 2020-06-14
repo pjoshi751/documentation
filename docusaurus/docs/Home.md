@@ -1,9 +1,10 @@
 ---
 id: home
 title: MOSIP
+hide_title: true
 ---
 
-![](/img/mosip_logo.png)
+<img align="center"  src="https://github.com/pjoshi751/documentation/blob/master/docusaurus/static/img/mosip_logo.png">
 
 The **Modular Open Source Identity Platform ([MOSIP](https://mosip.io))** helps Governments and other user organizations implement a digital, foundational identity system.  Nations can use MOSIP freely as a core to build their own identity systems.  Being modular in its architecture, MOSIP provides flexibility to countries in how they implement and configure their systems, and helps avoid vendor lock-in.  Anchored at the International Institute of Information Technology, Bangalore (IIIT-B), MOSIP harnesses the power of open source and embraces the best practices of scalability, security and privacy.
 
