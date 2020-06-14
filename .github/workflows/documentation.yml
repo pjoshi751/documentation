@@ -7,15 +7,14 @@ on:
     branches: [master]
 
 jobs:
-  checks:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v1
-      - uses: actions/setup-node@v1
-        with:
-          node-version: '12.x'
-      - run: npm install -g yarn
-      - run: yarn run build
+#  checks:
+#    runs-on: ubuntu-latest
+#    steps:
+#      - uses: actions/checkout@v1
+#      - uses: actions/setup-node@v1
+#        with:
+#          node-version: '12.x'
+#      - run: npm install -g yarn
   gh-release:
     runs-on: ubuntu-latest
     steps:
@@ -23,6 +22,7 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: '12.x'
+      - run: npm install -g yarn
       - name: Add key to allow access to repository
         env:
           SSH_AUTH_SOCK: /tmp/ssh_agent.sock
@@ -43,4 +43,6 @@ jobs:
         run: |
           git config --global user.email "actions@gihub.com"
           git config --global user.name "gh-actions"
+          yarn install --frozen-lockfile
+          yarn build
           yarn deploy
