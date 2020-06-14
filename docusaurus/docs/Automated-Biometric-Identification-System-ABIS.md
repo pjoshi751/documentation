@@ -1,7 +1,3 @@
----
-id: abis
-title: ABIS
----
 ## Overview
 
 Providing unique identity for a resident is one of key features of any identity platform. To achieve this, MOSIP interfaces with an **Automated Biometric Identification System (ABIS)** to perform de-duplication of a resident's biometric data. 
@@ -10,16 +6,11 @@ MOSIP is designed to integrate with multiple ABISs to leverage expertise of diff
 
 The ABIS system never comes to know about resident's identity. Any Personally Idenfiable Information (PII) such as demographic details or RID (Request ID for Registration) is not shared with the ABIS system. Internally, MOSIP maintains a mapping between the ABIS specific referenceID and RID of the resident.
 
-:::note 
-ABIS is used for 1:N deduplication. For 1:1 authentication [Biometric SDK](Biometric-SDK.md) is used. MOSIP does not recommend using an ABIS for 1:1 authentication.
-:::
+{% hint style="info" %}
+{% hint style="info" %} ABIS is used for 1:N deduplication. For 1:1 authentication [Biometric SDK](Biometric-SDK.md) is used. MOSIP does not recommend using an ABIS for 1:1 authentication.{% endhint %}
+{% endhint %}
 
-:::caution
-Do not use ABIS for 1:1 Auth
-:::
-
-
-![](/img/biometrics/abis_middleware.png)
+![](_images/biometrics/abis_middleware.png)
 
 ## ABIS middleware
 MOSIP's ABIS middleware has the following components
