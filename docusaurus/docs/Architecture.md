@@ -15,8 +15,6 @@ title: Architecture
 [Data Architecture](Data-Architecture.md)
 
 ## Design choices
-* TEST CHANGE!
-* Minor
 * Microservice based architecture for all platform services for modularity and scalability.
 * Staged Event Driven Architecture (SEDA) for processing Registration data for extensibility.
 * Thick client architecture for Registration client

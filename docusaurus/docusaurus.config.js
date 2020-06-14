@@ -1,4 +1,3 @@
-const path = require('path');
 module.exports = {
   title: 'MOSIP',
   tagline: 'Include All!',
