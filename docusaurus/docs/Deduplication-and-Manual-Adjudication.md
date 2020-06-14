@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 Providing unique identity for a resident is one of key features of any identity platform. Hence, in MOSIP, we provide features like demographic and biometric de-duplication followed by manual adjudication to identify the uniqueness of a resident's demographic and biometric details.
 
 # De-Duplication

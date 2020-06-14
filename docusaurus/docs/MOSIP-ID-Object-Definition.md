@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 ID definition is the key to use MOSIP. ID definition describes the attributes a country or entity will capture from an Individual. Since, MOSIP is a generic Identity platform the attributes of an ID cannot be predefined by MOSIP. One country may capture 5 attributes and another 10 attributes. So, to accommodate this flexibility MOSIP provides a feature where a country defines an ID object definition schema. This will be the first step in using MOSIP. Once an ID object schema is defined, all applications built on top of MOSIP platform to capture data MUST conform to the ID object schema.
 
 * As a rule of thumb, only attributes related to an individual (demographic and biometric), his/her parent/guardian attributes (demographic and biometric) should be captured in the ID object

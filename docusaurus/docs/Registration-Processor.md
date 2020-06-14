@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # Overview
 Registration Processor processes the data (demographic and biometric) of an Individual for quality and uniqueness and then issues a Unique Identification Number (UIN). It also provides functionality to update demographic and biometric data and issue a new UIN if lost.  The source of data are primarily from
 - MOSIP Registration Client

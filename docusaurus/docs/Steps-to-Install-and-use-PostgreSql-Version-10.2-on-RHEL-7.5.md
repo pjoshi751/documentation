@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 Often simply Postgres, is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards compliance. It can handle workloads ranging from small single-machine applications to large Internet-facing applications (or for data warehousing) with many concurrent users Postgresql Prerequisites On a Linux or Mac system, you must have superuser privileges to perform a PostgreSQL installation. To perform an installation on a Windows system, you must have administrator privileges.
 
 # Steps to install Postgresql in RHEL-7.5

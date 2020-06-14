@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # Overview
 
 Kernel is on which MOSIP services are built. Kernel is a platform to build higher-level services as well as a secure sandbox within which the higher-level service functions. Kernel provides a bedrock to build and run the services by providing several significant necessary technical functions so that individual services are concerned with specific business functions. 

@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 This page contains detail about the Device type and Device subtype API's.
 * [Device Types](#device-types)
 * [Device Subtypes](#device-subtypes)

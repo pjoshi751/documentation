@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 ﻿# VID Generator
 
 #### Background

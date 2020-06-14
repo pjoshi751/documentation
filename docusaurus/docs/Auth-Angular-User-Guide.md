@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # Guidelines
 
 Guidelines to implement Authorization and Authentication techniques in the Angular application are detailed in this document.

@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # Table of contents
 
 * Architecture

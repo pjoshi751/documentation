@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # Search
 * [POST /search](#post-fetch)
 

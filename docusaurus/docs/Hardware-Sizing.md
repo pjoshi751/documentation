@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 
 This document provides estimates for server machines and other hardware needed for a given production deployment.  _This is work-in-progress_.  Performance tuning of MOSIP is in progress so these figures are **rough estimates** at this point time.
 

@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 This section contains detail about the service APIs for Document Master data.
 * [Documents Categories APIs](#documents-category)
 These APIs include create, update, fetch, search and filter which are used by the administrator portal. Create and update APIs are used for the create and updating document category functionality. Search API is used by the portal to fetch the list of document categories based on a filter criterion to display the list of document categories on the UI and filter API is used to populate document category filter drop-downs on the portal UI. Fetch API of document category are used by Pre-Registration UI to display the list of document categories for the applicant to view and by the ID Object validator to validate the document category received in the packet in Registration processor.

@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 
 ## Scope
 This release is with **proxy biometrics**. This means that the implementation of Print system, SDK, MDM (MOSIP  Device Manager), ABIS (Automated Biometrics Identification System) and Biometric devices has been stubbed. Also, this version is tested for functionality. Non-functional requirements (Performance, Scale and Security) will be taken up in subsequent releases.

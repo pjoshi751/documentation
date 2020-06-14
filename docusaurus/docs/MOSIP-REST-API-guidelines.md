@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # 1	Introduction
 ## 1.1	Context
 MOSIP is developed as an open source framework project. The code developed complies with the Java standards and best practices. 

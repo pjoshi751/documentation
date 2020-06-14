@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # Auth Implementation flows
 
 Please find below the sequence diagrams for auth flows.

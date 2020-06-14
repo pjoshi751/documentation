@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 MOSIP offers high configurability to customise and deploy for a country. Many components are available out of the box.  However, for a specific deployment certain customisations and additions may be needed as follows:
 
 1. ID Object

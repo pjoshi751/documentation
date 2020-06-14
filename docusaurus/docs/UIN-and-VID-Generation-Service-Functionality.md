@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # UIN Generation
 MOSIP generates a pool of UINs before the registration process and stores them. The UIN generation policies can be defined or modified by country as per their requirement.
 

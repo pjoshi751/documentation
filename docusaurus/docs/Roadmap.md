@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 ## MOSIP 1.x
 ### Version 1.0.x:  Available 
 * MOSIP Platform APIs - ID Lifecycle, Authentication

@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 ## Architectural Principles
 
 MOSIP is built on the following architecture principles

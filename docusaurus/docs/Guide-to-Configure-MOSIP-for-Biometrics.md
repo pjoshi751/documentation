@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # MOSIP Configurability for Biometrics
 MOSIP can be configured to work with proxy implementation and multiple biometric modalities(Fingerprint, Iris and Face). Below are configurations to enable biometrics in MOSIP.
 

@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 This section contains detail about the service APIs in the Common Master data module
 * [Title APIs](#title)
 These APIs includes create, update and fetch APIs. Create and Update API is used by the Administrator Portal for the Create and Update Title functionality. Fetch APIs are used by IDA to separate out Name from the title.

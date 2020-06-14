@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 This document contains the 'Registration client (Reg Client App)' application initial setup, update and configuration process.       
 
 Registration Client application is a desktop based application, that can be used to captures the demographic and biometric details of a resident along with supporting information (like. proof documents & information about parent/guardian/introducer) and packages the information in a secure way using RSA based algorithm. The information packet can be sent to the server in an online or offline mode for processing.  

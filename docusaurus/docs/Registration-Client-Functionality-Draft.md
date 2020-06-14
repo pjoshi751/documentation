@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # Operators in MOSIP
 The operators is the one who can login to the registration client application and perform various activities. The roles associated to an operator in MOSIP can be of a Supervisor or an Officer. Below are features accessed by a supervisor and an officer in the registration client.
 

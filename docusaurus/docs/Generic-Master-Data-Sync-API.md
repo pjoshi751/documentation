@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # Sync Generic Master Data
 * [GET /sync](#get-sync)
 

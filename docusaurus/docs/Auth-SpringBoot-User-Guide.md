@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # Guidelines
 
 This document lists out the instructions on how to use the [AuthAdapter](Auth-Adapter.md) in a Spring Boot application.

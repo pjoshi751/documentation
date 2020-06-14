@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # Introduction 
 
 MOSIP and Partners communicate with each other when indviduals avail services of Partners.  The communication must to be executed safely and securely. 

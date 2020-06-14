@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # ApacheDs Installation and Config
 
 The below documentation is for linux machines.

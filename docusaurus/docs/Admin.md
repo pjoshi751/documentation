@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # Overview 
 The MOSIP platform is configured via the Admin application. This application can be accessed only by the privileged group of admin personnel. When the MOSIP platform gets initialized, there are default configurations and seed data are setup. Post installation, following operations can be done using the Admin application:  
 * Configuration entry changes 

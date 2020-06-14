@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # Intro
 This is a scribble page to try out Gitbook rendering.
 

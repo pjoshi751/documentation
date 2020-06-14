@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # Registration Client Developer Documentation
 
 *** 

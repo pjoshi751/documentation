@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 ## Table Of Content
 * [1. Partner Management - SSP](#1-partner-management---ssp) 
     * [1.1 Partners - Create/Read/Update/Delete](#11-partners---createreadupdatedelete-) _(MSP_FR_1.1)_

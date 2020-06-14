@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # Architecture Principles
 [Architecture Principles](Architecture-Principles.md)
 

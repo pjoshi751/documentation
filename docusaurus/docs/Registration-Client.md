@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # Overview
 The registration client is a thick Java-based client where the resident's demographic and biometric details are captured along with the supporting documents in online or offline mode.   The captured information is packaged in a secure tamper-proof way and send to the server for processing.
 

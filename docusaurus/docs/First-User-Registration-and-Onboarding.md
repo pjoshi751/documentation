@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 Steps to generate the first User in MOSIP eco-system, refer below for the process:
 
 ### 1. Creating the First User in LDAP

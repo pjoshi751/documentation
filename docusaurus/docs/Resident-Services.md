@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # Overview
 Resident services are the self services which is used by the resident themselves via a portal.  Functionalities  such as lock/unlock authentication types, reprint UIN, view authentication history etc. are available. The services use OTP method of authentication. 
 

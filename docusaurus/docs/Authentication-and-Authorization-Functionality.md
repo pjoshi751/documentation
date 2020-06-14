@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 * **Authentication and Authorization** _(AUT_FR_1)_
 
 In MOSIP, Authentication largely falls into the below categories:

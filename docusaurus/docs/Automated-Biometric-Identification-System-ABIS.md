@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 ## Overview
 
 Providing unique identity for a resident is one of key features of any identity platform. To achieve this, MOSIP interfaces with an **Automated Biometric Identification System (ABIS)** to perform de-duplication of a resident's biometric data. 

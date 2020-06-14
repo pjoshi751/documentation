@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # Overview
 ID Authentication (ID Auth) provides an API based authentication mechanism for entities to validate individuals. ID Authentication is the primary mode for entities to validate an individual before providing any service.
 

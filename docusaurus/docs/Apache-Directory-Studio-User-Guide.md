@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # Guide to use apache directory studio
 
 Follow the below guidelines to use Apache Directory Studio.

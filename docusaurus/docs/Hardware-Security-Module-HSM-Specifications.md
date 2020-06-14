@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 HSM stands for Hardware Security Module and is an incredibly secure physical device specifically designed and used for crypto processing and strong authentication. It can encrypt, decrypt, create, store and manage digital keys, and be used for signing and authentication. The purpose is to safeguard and protect keys.
 
 MOSIP highly recommends the following specifications for HSM:

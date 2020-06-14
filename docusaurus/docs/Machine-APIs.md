@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 This section contains detail about the service APIs in the Machine Masterdata module
 * [Machines API](#machines-master-api)
 These APIs includes create, update and fetch APIs. Create and Update API is used by the Administrator Portal for the Create and Update Machine functionality. Fetch APIs are used by Registration Processor to validate the Machine data received in packet to make sure the packet is generated in an authorized Machine.

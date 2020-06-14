@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 This documentation is for setting up HDFS (v2.8.1) cluster with one namenode and one datanode
 
 # Setup HDFS version 2.8.1

@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 This section contains detail about the service APIs in the Registration Center Masterdata module
 
 * [Registration Centers API](#registration-centers-api)

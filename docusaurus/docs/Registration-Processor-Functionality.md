@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 # ID Life cycle Management 
 When an individual visits a registration center to get an ID or update his/her ID details, a registration officer captures the individual’s demographic (name, date of birth, gender, etc.) and biometric (face, iris, fingerprint image) details in a Registration Client. The Registration Client packages the captured information in a secure way (in the form of encrypted packets) and sends it to Registration Processor for further processing. 
 

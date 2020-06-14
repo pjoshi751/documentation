@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 ﻿This section details about the service API in the Partner Management module.
 
 #### Note:

@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 This section contains detail about the service APIs in the Template Masterdata module
 
 * [Templates API](#template-api)

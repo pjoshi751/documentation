@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 This section contains details related to MOSIP data model design.The section also provides the data dictionary of the tables and columns defined by MOSIP databases.
 
 ## Data Model Considerations

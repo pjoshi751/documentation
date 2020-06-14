@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 This page lists all the technologies used in building MOSIP
 
 Category | Tool/Technology | Version | License | Remarks

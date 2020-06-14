@@ -1,3 +1,7 @@
+---
+id: 
+title: 
+---
 ## Data Architecture Principles
 * PII of an individual like name, age, gender, address etc... and other sensitive information must be signed and stored in an encrypted form
 * Documents and images must not be stored in a database table. They must be stored in a file system and referenced in DB.
