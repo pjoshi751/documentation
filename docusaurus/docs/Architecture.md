@@ -2,7 +2,6 @@
 id: 
 title: 
 ---
-## Testing Heading.
 
 ## Architecture Principles
 [Architecture Principles](Architecture-Principles.md)
